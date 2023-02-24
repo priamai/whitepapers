@@ -384,7 +384,7 @@ It is a good intuitive explanation of the tradeoff, but we prefer to adopt the p
 We found it most effective to use scatter plots and hexaplots to plot the distribution of scores in our SOC platform like in the following pictures below.
 
 <p align="center">
-  <img width="600" height="400" src="https://i.ibb.co/YfgsFKn/unnamed.png" alt="signature distribution">
+  <img width="729" height="365" src="https://i.ibb.co/p1kmmnH/scatter-normal.png" alt="signature distribution">
 </p>
 
 <p align="center">
@@ -392,12 +392,9 @@ We found it most effective to use scatter plots and hexaplots to plot the distri
 </p>
 
 <p align="center">
-  <img width="512" height="205" src="https://i.ibb.co/qpyqkX4/top10.png" alt="Top 10 signatures">
+  <img width="605" height="375" src="https://i.ibb.co/mJ5Y1Dp/top10bottom10.png" alt="Top and Bottom 10 signatures">
 </p>
 
-<p align="center">
-  <img width="512" height="205" src="https://i.ibb.co/kDRgN2r/bottom10.png" alt="Bottom 10 signatures">
-</p>
 
 The challenge is then how do we measure those quantities from a subjective perceived scale to an objective metric.
 
